@@ -3,7 +3,7 @@ import Companies from "./components/Companies/companies"; // Updated to match fi
 import Header from "./components/Header/Header";
 import Hero from "./components/Hero/Hero";
 import Residencies from "./components/Residencies/Residencies";
-import Value from "./components/Value/Value";
+import Value from "./components/Value/value";
 import Contact from "./Contact/Contact";
 import Footer from "./Footer/Footer";
 import GetStarted from "./GetStarted/GetStarted";
